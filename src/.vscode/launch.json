@@ -15,6 +15,30 @@
       "request": "launch",
       "name": "Launch sumStrings",
       "program": "${workspaceFolder}/sumStrings.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch score",
+      "program": "${workspaceFolder}/score.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch firstNonRepeatingLetter",
+      "program": "${workspaceFolder}/firstNonRepeatingLetter.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch persistence",
+      "program": "${workspaceFolder}/persistence.js"
+    },
+    {
+      "type": "node",
+      "request": "launch",
+      "name": "Launch pigIt",
+      "program": "${workspaceFolder}/pigIt.js"
     }
   ]
 }
